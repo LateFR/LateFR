@@ -1,6 +1,6 @@
-### 🚀 Mes Projets  
-- 🕵️‍♂️ [Netica](https://github.com/LateFR/Netica) – Moteur de recherche  
-- 🌍 [Hydrolia](https://github.com/LateFR/Hydrolia) – Jeu en 2D à la minecraft 
+### 🚀 My projects 
+- 🕵️‍♂️ [Netica](https://github.com/LateFR/Netica) – Search engine
+- 🌍 [Hydrolia](https://github.com/LateFR/Hydrolia) – 2D game like Minecraft (french project)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LateFR/LateFR/output/github-snake-dark.svg" />
