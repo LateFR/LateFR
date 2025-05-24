@@ -1,5 +1,4 @@
 ### 🚀 My projects 
-- 🕵️‍♂️ [Netica](https://github.com/LateFR/Netica) – Search engine
 - 🌍 [Hydrolia](https://github.com/LateFR/Hydrolia) – 2D game like Minecraft (french project)
 
 <picture>
